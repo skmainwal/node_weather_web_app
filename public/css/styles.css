@@ -22,7 +22,7 @@ footer {
 
 header {
   margin-top: 16px;
-  margin-bottom: 4px;
+  margin-bottom: 25px;
 }
 h1 {
   font-size: 64px;
@@ -37,12 +37,14 @@ header > a {
 
 .portrait {
   width: 250px;
+  margin:10px;
 }
 
 input {
   margin-top:20px;
   border: 1px solid #cccccc;
   padding: 8px;
+  
 }
 
 button {
@@ -51,4 +53,9 @@ button {
   background: #888888;
   color: white;
   padding: 8px;
+}
+
+#about{
+  font-size:20px;
+
 }
